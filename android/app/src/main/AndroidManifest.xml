@@ -2,7 +2,7 @@
     package="com.example.bunkie_mobile_pjt_47">
    <application
         android:label="bunkie_mobile_pjt_47"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/gradient-bunkie-logo.png">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
